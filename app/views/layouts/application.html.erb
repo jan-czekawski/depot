@@ -16,6 +16,9 @@
     </div>
     <div id="columns">
       <div id="side">
+        <div id="cart">
+          <%= render @cart %>
+        </div>
         <ul>
           <li><%= Time.now.strftime("%H:%M") %></li>
           <li><%= Time.now.strftime("%A, %e %b %Y") %></li>
