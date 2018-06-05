@@ -1,0 +1,12 @@
+pl:
+  layouts:
+    application:
+      title: "Pragmatyczna Półka"
+      home: "Strona domowa"
+      questions: "Pytania"
+      news: "Wiadomości"
+      contact: "Kontakt"
+  store:
+    index:
+      title_html: "Twoja Pragmatyczna Półka"
+      add_html: "Dodaj do Koszyka"
